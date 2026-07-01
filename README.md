@@ -80,24 +80,6 @@ The assembly consists of multiple mechanical components, including:
 5. Generate engineering drawings.
 6. Export drawings as PDF.
 
----
-
-## 📸 Preview
-
-You can add screenshots of:
-
-- Complete Assembly
-- Exploded View
-- Isometric View
-- Engineering Drawing
-
-Example:
-
-```md
-![Assembly](images/assembly.png)
-
-![Exploded View](images/exploded.png)
-```
 
 ---
 
